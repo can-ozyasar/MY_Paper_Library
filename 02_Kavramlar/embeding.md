@@ -1,0 +1,3 @@
+yapay zeka modeli aslında metinleri anlamaz onun anladığı tek şey sayılardır bizde ona metinleri sayı olarak vermemiz gerekli bu metinleri sayıya dönüştürme işlemine embeding denir 
+bunun birden çok yolu vardır temelde cümleyi nasıl böldüğümüze göre değişir bu yöntemler örneğin biri kelime kelime bölebilirken biri karakter karakter bölebilir ve bunları numaralandırarak kendi sözlüğünü oluşturur.
+rastgele sayılar atamak bize yakışmaz orda da algoritmayı ortaya koymalıyız ve birbirine yakın anlamlı kelimeler çok boyutlu sözlüğümüzde birbirine yakın olmalı ör kral , kraliçe

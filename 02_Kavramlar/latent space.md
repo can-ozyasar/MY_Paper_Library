@@ -1,0 +1,2 @@
+verinin sadece en önemli can alıcı özelliklerini saklayarak alandan tasarruf sağlamamıza yarar.
+örneğin bir mp3 de insanın duymayacağı frekansları kaldırırısak hem kayıp yaşamamış oluruz hemde boyutu küçültüp yer kazancı sağlarız model de kelimeler için buna benzer olarak en önemli kısımları saklar .

@@ -1,0 +1,3 @@
+- MoE modellerinde router'ın yönlendiricinin adaleti sağlarken modelin performansını düşürmesini engelleyen yenilikçi bir tekniktir.
+
+- Normalde yönlendirici ağı, hep en zeki ve en iyi eğitilmiş uzmanlara iş göndermeye meyillidir; diğer uzmanlar hiç eğitilmez. Bunu önlemek için eski sistemlerde "Auxiliary Loss" denilen bir matematiksel ceza uygulanırdı: Ancak bu ceza, modelin asıl amacı olan "doğru kelimeyi tahmin etme" başarımını düşürürdü. DeepSeek, Bunun yerine yönlendiricinin karar mekanizmasındaki "bias" (sapma) değerlerini dinamik olarak güncelleyerek, modeli cezalandırmadan iş yükünü adil dağıtmayı başardı.

@@ -1,0 +1,1 @@
+normalde model geçmişi hatırlamak için  her kelime için key value olarak tutar ama bu çok fazla yer kaplar  MLA  da ise  [[latent space]] ile geçmişteki kelimenin matrisini tek bir sıkıştırılmış gizli vektörle tutar  hesaplama yapıacağı zaman bu sıkıştırlmış veriyi geçici olarak açar

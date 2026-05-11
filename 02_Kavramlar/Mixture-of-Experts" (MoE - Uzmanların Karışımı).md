@@ -1,0 +1,2 @@
+devasa bir yapay zeka modelini gereksiz yere çalıştırmak yerinde işlemi uzmanlara böler ve bu sayede gereksiz bellek kaynak kullanımının önüne geçilir.
+sisteme kelime girer ve yönlerndirici tüm ağlardan sadece bu işin uzmanları olan ağları çalıştırır
