@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "42ad82d61b3b1fa3",
@@ -222,8 +222,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c74d193f2c5b0a4",
+  "active": "0ae56c0b536c2349",
   "lastOpenFiles": [
+    "98_Medya/Pasted image 20260511210653.png",
     "99_Sablonlar/Sablon BASLİK.md",
     "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
     "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
