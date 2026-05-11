@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "728b4f8a1a4d45c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75dd702f976f26b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ccbb42879af2d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Sablonlar/Sablon BASLİK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sablon BASLİK"
+            }
+          },
+          {
+            "id": "1c74d193f2c5b0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DeepSeek-V3 Technical Report (Aralık 2024)"
+            }
+          },
+          {
+            "id": "555ea019f5ff46ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Sablonlar/Sablon BASLİK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sablon BASLİK"
+            }
+          },
+          {
+            "id": "4f67f47962e22a23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19dd06b9a28052fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "998e40b28c314e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae56c0b536c2349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ec6a58cbd6105f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13733bf21a77489c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42ad82d61b3b1fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8b07b06ed30a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2033d3f0c1ca7ef3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DeepSeek-V3 Technical Report (Aralık 2024)"
+            }
+          },
+          {
+            "id": "d66a8c2ba37e6ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DeepSeek-V3 Technical Report (Aralık 2024)"
+            }
+          },
+          {
+            "id": "520564288e69cd1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20b41ed304f5695f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d299b9056c7ff2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DeepSeek-V3 Technical Report (Aralık 2024)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1c74d193f2c5b0a4",
+  "lastOpenFiles": [
+    "99_Sablonlar/Sablon BASLİK.md",
+    "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+    "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+    "98_Medya",
+    "Pasted image 20260511191653.png",
+    "01_Makale_İncelemeleri/Deepseek.md",
+    "00_.md",
+    "02_Kavramlar",
+    "01_Makale_İncelemeleri",
+    "00_GİRİS",
+    "MD İLE YAZMAK.md",
+    "99_Sablonlar"
+  ]
+}
