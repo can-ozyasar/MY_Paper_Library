@@ -1,0 +1,1 @@
+bilgisayarda ondalıklı sayılar normalde 32 bit olarak tutulur fp32 veya 16 bit olarak tutulur  fp8 de ise  bu sayılar 8 bit olarak tutulur .hassasiyet düşer ama işlem hızı devasa artar ve ram tüketimi de düşer

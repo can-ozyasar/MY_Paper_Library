@@ -1,0 +1,1 @@
+santrançta 2 3 hamle sonrasını düşünmek gibidir.model sonraki kelimeyi tahmin etme klasik yöntemine ek olarak  ondan sonraki 3. 4. gibi kelimeleri de tahmin etmeye çalışır .model cümlenin sonunu önceden planladığı için  dilin grammerini falan daha derinlemesine öğrenir .

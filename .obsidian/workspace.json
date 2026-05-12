@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
+                "file": "02_Kavramlar/DualPipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepSeek-V3 Technical Report (Aralık 2024)"
+              "title": "DualPipe"
             }
           }
         ],
@@ -214,18 +214,18 @@
   },
   "active": "051a05b213fd5e44",
   "lastOpenFiles": [
-    "DualPipe.md",
+    "02_Kavramlar/FP8 Mixed Precision.md",
+    "02_Kavramlar/Multi-Token Prediction (MTP).md",
+    "02_Kavramlar/attention.md",
     "01_Makale_İncelemeleri/DeepSeek-V3 Technical Report (Aralık 2024).md",
-    "FP8 Mixed Precision.md",
-    "Multi-Token Prediction (MTP).md",
+    "02_Kavramlar/DualPipe.md",
     "02_Kavramlar/MLA (Multi-head Latent Attention).md",
-    "02_Kavramlar/Auxiliary-Loss-Free\" (Ek Kayıpsız).md",
-    "02_Kavramlar/DeepSeekMoE.md",
     "02_Kavramlar/Mixture-of-Experts\" (MoE - Uzmanların Karışımı).md",
     "02_Kavramlar/latent space.md",
     "02_Kavramlar/embeding.md",
+    "02_Kavramlar/DeepSeekMoE.md",
+    "02_Kavramlar/Auxiliary-Loss-Free\" (Ek Kayıpsız).md",
     "99_Sablonlar/Sablon BASLİK.md",
-    "attention.md",
     "mama.md",
     "98_Medya/Pasted image 20260511210653.png",
     "98_Medya",

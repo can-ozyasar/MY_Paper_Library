@@ -1,0 +1,1 @@
+modeli örneğin 671 milyar parametrelik bir modeli [[DeepSeek-V3 Technical Report (Aralık 2024)]] tek bir gpu ya sığdıramazsın. katmanları peş peşe gpu lara bölerek modeli işleyebiliriz bu bölme sonucu veri gecikmeleri olmaması için ileri geri yayılım işlemlerini her iki yönden aynı anda başlatarak işlemleri mikro parçalara bölüp boşta beklemeyi nerdeyse sıfıra indirmektir.

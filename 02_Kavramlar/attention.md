@@ -1,0 +1,1 @@
+dikkat mekanizmasıdır .her kelime soru soran query , cevap taşıyan key yada asıl anlam value olmak üzere 3 kimliğe bölünür .okunan kelimeler arasındaki ilişkileri yakınlık uzaklık gibi kavramları tespit etme işidir 
