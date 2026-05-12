@@ -1,0 +1,1 @@
+llm ler tam olarak bizim gördüğümüz gibi butanları ekrana bakınca göremez bunu yapmak için kaynak kod kısmında olan html head body button gibi kısımları dal olarak görürü ve bu şekilde tarama yapar biz bana bilet al dediğimizde ise ağaçta tarama sonucu istediğimiz butonu bulur ve kordinatlarını hesaplayarak ve fareyi o kısıma tıklatır.
